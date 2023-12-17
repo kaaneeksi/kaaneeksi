@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Ekşi</h1>
 <h3 align="center">Try to improve myself in Cybersecurity</h3>
 
-<p align="left"> <a href="https://twitter.com/kaanneeksi" target="blank"><img src="https://img.shields.io/twitter/follow/kaanneeksi?logo=twitter&style=for-the-badge" alt="kaanneeksi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
