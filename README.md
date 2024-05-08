@@ -4,8 +4,6 @@
 
 
 - 🌱 I’m currently learning **Ethical Hacking**
-
-- 📄 My website [https://www.kaaneksi.com](https://www.kaaneksi.com)
   
 - 📫 How to reach me **kaaneeksi05@gmail.com**
 
